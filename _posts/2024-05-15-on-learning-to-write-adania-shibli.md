@@ -3,7 +3,8 @@ layout:            post
 title:             "On “Learning to write again”, an essay by Adania Shibli - Translated by Wiam El-Tamami"
 menutitle:         "Analysis - “Learning to write again”, an essay by Adania Shibli"
 category:          essay analysis
-author:            M Irani
+author:            jwillmer
+date:              2024-05-13 09:17:00 -0400
 tags:              Jekyll Content Demo
 ---
 
