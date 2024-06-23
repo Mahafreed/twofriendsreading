@@ -10,7 +10,8 @@ tags:              Essay Analysis
 
 ### Analysis and notes
 
-“In learning to write again”, the author Adania Shibli tries to examine, while looking through the lens of human conflict and the resulting turmoil, if ( the art of?) writing holds any significance.
+#### Introduction ####
+In ["Learning to write again"](https://europeanreviewofbooks.com/on-learning-to-write-again/en), the author Adania Shibli tries to examine, while looking through the lens of human conflict and the resulting turmoil, if ( the art of?) writing holds any significance.
 
 While reading this essay, we had to keep in mind that the version that we were going through is a translation of the original text in arabic. Hence it is important to understand that some of elements of author’s writing may have gotten lost in translation - mostly because of the semantics of arabic that could be lost in English.
 
@@ -18,6 +19,7 @@ The timelines of the essay hover around Ramallah in mid 2014 to late 2014, in Be
 
 Throughout the piece, the author has intentionally used words that are related to war to express herself even when she is not directly describing the war.  These include words like emergencies, launched, booming, dead, hostage, numb, paralyzed, defeating.
 
+#### A not-so-ordinary morning ###
 The author begins the essay by describing the ringing of her phone on a July morning in 2014, which is eventually answered by her partner. While doing so, she also describes, in detail, about her aversion to the phone (para 3, *“I have stayed true to my aversion, shunning all responsibility towards the phone”*) - here she uses the “phone”  as a, sort of, symbol of authority. The idea of projecting a communication device (and everything that it comes with) like an eventual responsibility, is to convey that we are ultimately obliged to respond to these forms and modes of communication. We should also note that in 2014 a mobile phone was not as important to daily functioning of life as it is now, in 2023.
 
 In para 5, The author explains in detail about the phone call on a morning, by the Israeli forces, informing her of an impending attack in the next 30 minutes. The idea behind such a call is that the receiver, usually a resident of the place that the Israeli forces plan to attack, “relinquishes their ability” to accuse the Israeli government of war crimes. “Relinquishing” means to give up the claim of. Of course, here there is no claim as such because the commoners at Ramallah would always come as second best against the Israeli Armed forces. Maybe “seized” could have been a more appropriate word?
@@ -28,10 +30,13 @@ It is a matter of curiosity that the author does not mention anything about how 
 
 It could be a way to evoke sympathy from the reader. At this point, despite being frozen with fear initially, either the author did not then believe that the call was intended for her after all, or it could be that she tried to put up a brave face and was determined to continue her daily routine.
 
+#### Looking back ####
+
 At this point in the essay, she reflects back on her time at Berlin, but gives us a little insight into what made her give up on her writing. (she has left Berlin and come to Palestine, working at the department of Philosophy at Birzeit university). She weaves together helplessness, hopelessness and rationality while explaining the reasons of her departure from Berlin, in a profound display of writing (“And the more suffering the world sees, the more I feel that the most one can master through writing is solitude, while mastering words themselves becomes more difficult”)
 
 Why does she think that the most one can master through writing is solitude? One answer could be that this suffering that one sees, probably leads to isolating oneself, physically and perhaps more importantly, mentally and emotionally. And she says, mastering words themselves, under such circumstances, becomes more difficult. Why? Could it be that because of these tragic circumstances, this conflict and suffering that the author witnesses, these have been so constant and prolonged that she often must be finding herself out of words to express, and thus, the emotion of helplessness.
 
+#### A scarcity of hope ####
 A commonly acknowledged perspective of writing is that it helps people clear their minds. However, here we see a different perspective from the author - For her, writing does less to change things in dire circumstances (*“sometimes my writing is shaped by what I witness of this destruction, but most of the time it does little to change things, even in my own life.”*)
 
 In the next two paragraphs (p11 and p12), the author talks about life at the university in Palestine. She mentions the modern ideas of Freedom and the philosophical texts that she teaches to her students in the university. We encounter an irony here - while these modern texts and ideas of freedom are being taught, many of her students, at any given time, are absent from the class because they have been detailed by the Israeli armed forces, or injured during demonstrations against the Israeli occupation.
@@ -50,6 +55,8 @@ Further in the same paragraph she beautifully describes the non-verbal human int
 >“The eyes are careful to avoid each other’s gaze, fearing an intimacy that may betray the general feeling of solitude.” 
 
 This line is almost like a poem (or a shayari, if you will). Lyrical. We often avoid eye contact in public places and sometimes, very rarely, eyes get locked with strangers and then you wonder what they must be thinking and the mind wanders.
+
+#### A bit of light ####
 
 Towards the end of the piece, the author mentions the faint light from the streetlamp outside, which had been casting a shadow in her bedroom that scares her in the middle of the night. Here, she compares the faint light of the streetlight to the impact of writing on society. She already knows this, but possibly validates her belief, because writing is a way to counter rumours, lies and eventually, darkness. Writing enables literacy and knowledge - because when we read, we become aware, unravel the truth and it allows us to distinguish between lies and truth. The black cube here could be a symbol of ignorance.
 
