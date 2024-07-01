@@ -1,6 +1,6 @@
 default:                                                      # Fallback if nothing is specified
   initial:      mi                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Mahafreed Irani"                               # used to display author name
+  name:         "Mahafreed Irani, Aditya Kumar"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
   bio:                                        # OPTIONAL: text below author name in posts
@@ -25,8 +25,8 @@ default:                                                      # Fallback if noth
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
 mi:
-  initial:      mi
-  name:         "Mahafreed Irani"
+  initial:      mi, ad
+  name:         Two friends reading
   cover:        "-"
   picture:      "-"
   bio:          "-"
