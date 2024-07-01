@@ -4,7 +4,7 @@ title:             "Chapter 3 - The writing life"
 menutitle:         "Chapter 3 - The writing life"
 category:          Alex Chee's How to write an autobiographical novel
 author:            mi
-date:              2024-07-02
+date:              2024-07-02 09:17:00 -0400
 tags:              Essay Analysis
 ---
 
@@ -29,6 +29,7 @@ Heeding her advice, years later while writing this book, the author describes an
 
 Cloud painter, and all. How very awesome.
 
+#### "Stealing" a story from a typewriter ####
 The author talks about an incident when he ended up writing a short story on a typewriter (that he was about to lend to a friend). That writing experience, something that lasted four hours, had a profound impact on him. Stitching together some events from his life, he made up a fictional account that he later finds out, is called “The consolations of the mask”. It is described as:
 
 > *Where you make a place that doesn’t exist in your own life for the life your life has no room for, the exiles of your memory.*
@@ -44,6 +45,7 @@ But it is not just his sensitivity that is on display here, there is also an hon
 This, it seems to me, is why we have teachers.*
 >
 
+#### In awe of a teacher ####
 Chee describes Annie Dillard in an almost romantic way - it is clear that he is in awe of her. The one sentence that gives that away so easily is when he describes the lipstick mark on a cigarette filter as a “crown”. (”*Lipstick crowns the golden Marlboro filter”)*. The next few pages of the chapter are filled with anecdotes of Annie Dillard’s teaching and would serve as an education for any budding writer.
 
 There's something about the analogies that Chee knits up. It is noteworthy how he describes getting writing feedback from Dillard:
