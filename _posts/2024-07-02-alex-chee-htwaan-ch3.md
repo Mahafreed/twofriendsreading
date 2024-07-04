@@ -8,7 +8,7 @@ date:              2024-07-02 09:17:00 -0400
 tags:              Essay Analysis
 ---
 
-### Notes and observations:
+### Notes and observations: ###
 
 #### Beginning ####
 The chapter starts with a letter that Alex Chee wrote to Annie Dillard, when he applied for her literary non-fiction class at Wesleyan University (where he is eventually accepted).
