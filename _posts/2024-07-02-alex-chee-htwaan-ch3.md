@@ -2,7 +2,7 @@
 layout:            post
 title:             "Chapter 3 - The writing life"
 menutitle:         "Chapter 3 - The writing life"
-category:          Alex Chee's How to write an autobiographical novel
+category:          Anaylsis - Alex Chee's How to write an autobiographical novel
 author:            mi
 date:              2024-07-02 09:17:00 -0400
 tags:              Essay Analysis
