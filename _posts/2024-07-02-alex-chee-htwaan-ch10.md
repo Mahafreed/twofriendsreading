@@ -1,10 +1,10 @@
 ---
 layout:            post
-title:             "Chapter 3 - The writing life"
-menutitle:         "Chapter 3 - The writing life"
-category:          Alex Chee's How to write an autobiographical novel
+title:             "Chapter 10 - The Rosary"
+menutitle:         "Chapter 10 - The Rosary"
+category:          Anaylsis - Alex Chee's How to write an autobiographical novel
 author:            mi
-date:              2024-07-02 09:17:00 -0400
+date:              2024-07-03 09:17:00 -0400
 tags:              Essay Analysis
 ---
 
@@ -68,7 +68,7 @@ Now here, the snake skin incident becomes a metaphor. The author now compares th
 >
 
 #### The Mirror ####
-Towards the end of the essay, he compares the backyard to a mirror. Notice the word “backyard” and not “Garden” (because just a sentence ago, he refers to it as a “garden”). The backyard was how he found it, the “garden” is what he made of it. The garden eventually becomes a “messenger” which tells him that there’s more to come - possibly hinting of a successful career as a writer (As we know, Chee wrote his first novel here). 
+Towards the end of the essay, he compares the backyard to a mirror. Notice the word “backyard” and not “Garden” (because just a sentence ago, he refers to it as a “garden”). The backyard was how he found it, the “garden” is what he made of it. The garden eventually becomes a “messenger” which tells him that there’s more to come - possibly hinting of a successful career as a writer (As we know, Chee wrote his first novel here).
 
 He also thinks of himself as someone who “pushed” the garden (or its inhabitants) hard to grow, cutting them, pruning them more than needed etc. He calls himself the tormentor, and while they did grow, so did he, in the process. In this ending, he brings together beautifully how this piece of land became his reflection and also they both became teachers of each other - while Chee pushed the garden to its limits, the garden instead taught him patience and that something he can be (as Chee says, “I was not their gardener. They were mine”).
 

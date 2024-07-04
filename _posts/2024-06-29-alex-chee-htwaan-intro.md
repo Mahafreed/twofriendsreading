@@ -2,7 +2,7 @@
 layout:            post
 title:             "Introduction to analysis - Alex Chee - How to write an autobiographical novel"
 menutitle:         "Introduction to analysis - Alex Chee - How to write an autobiographical novel"
-category:          Analysis - Alex Chee's How to write an autobiographical novel
+category:          Anaylsis - Alex Chee's How to write an autobiographical novel
 author:            mi
 date:              2024-05-13 09:17:00 -0400
 tags:              Essay Analysis
